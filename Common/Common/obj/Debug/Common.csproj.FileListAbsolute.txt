@@ -1,0 +1,6 @@
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\bin\Debug\Common.dll
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\bin\Debug\Common.pdb
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\obj\Debug\Common.dll
+C:\Users\mofir\Desktop\Client_Server_Cat_Dog_Flower_RGB\Common\Common\obj\Debug\Common.pdb
